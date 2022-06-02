@@ -1,0 +1,30 @@
+/* INSTRUCTOR CARD */
+.instructorBox {
+  height: 740px;
+  width: 400px;
+  background: rgba(59, 105, 130, 0.24);
+  border-radius: 40px;
+  box-shadow: 0px 4px 49px #3b6982;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 6rem 3rem;
+}
+.instructorName {
+  font-weight: 700;
+  font-size: 24px;
+  margin-top: 2rem;
+}
+.instructorTitle {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 0.5rem;
+}
+.text {
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 2rem;
+}

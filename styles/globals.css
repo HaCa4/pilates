@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxanium:wght@300;700&display=swap");
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Oxanium", cursive, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Oxanium;
+}
+.page-div {
+  min-width: 100vw;
+  min-height: 93vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.page-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  width: 50vw;
+}
+/* INFO CARDS */
+
+.infoCard {
+  width: 340px;
+  height: 340px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 2rem;
+}
+.CardBox {
+  width: 340px;
+  height: 320px;
+  border-radius: 13px;
+  background: rgb(217, 217, 217, 0.7);
+  box-shadow: 0px 4px 49px #3b6982;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.CardImage {
+  border-radius: 13px;
+}
+.CardTitle {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 32px;
+}
+.CardText {
+  font-weight: 200;
+  font-size: 12px;
+  line-height: 17px;
+}
+.CardButton {
+  height: 30px;
+  width: 140px;
+  color: white;
+  background: #3b6982;
+  align-self: center;
+  margin-top: 0.3rem;
+}
+
+/* training-nutrition-blog SUBPAGES */
+
+.subContainer {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 93vh;
+}
+.subHead {
+  font-weight: bolder;
+  padding: 0 2rem;
+}
+
+/* NAVBAR */
+.navContainer {
+  height: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 4rem;
+  background-color: rgb(0, 0, 0, 0.1);
+  width: 100%;
+}
+.navSubContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.navLogoContainer {
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+.navItem {
+  cursor: pointer;
+  color: #3b6982;
+  font-weight: bold;
+}
+.appLogo {
+  cursor: pointer;
+  color: #765937;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
