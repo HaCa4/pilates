@@ -1,8 +1,8 @@
-#Pilates 
+# Pilates 
 
 This is one of the website templates, i designed for a pilates studio which has personal training and nutrition services  related with the needs and deseases of their clients. Website is builded in a way that users can straightly reach the relevant information about studio's services.
 
-#Stack
+# Stack 
 
 FIGMA, an easy going and full-featured app for designing UI/UX prototypes. It has simply everything for design process including layouts, effects etc. It helps designers to simplify and expedite design process and that's why i mostly prepare my designs with it.
 
@@ -14,7 +14,7 @@ FORMIK, one of the most popular and easy to use form handling open source librar
 
 YUP, a very useful validation library and highly compatiple with Formik. It's used for form validation and error handling.
 
-#Website Content/Pages
+# Website Content/Pages
 
 1-Home: Brief information and welcome page
 
