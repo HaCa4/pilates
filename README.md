@@ -6,15 +6,20 @@ This is one of the website templates, i designed for a pilates studio which has 
 
 FIGMA, an easy going and full-featured app for designing UI/UX prototypes. It has simply everything for design process including layouts, effects etc. It helps designers to simplify and expedite design process and that's why i mostly prepare my designs with it.
 
-NEXT.JS,  is a react framework which is developed for better SSO and SEO. It handles the most of requirements for react and additional easy to use features such as static generation, self routes, dynamic pages etc.
+### NEXT.JS,  
+is a react framework which is developed for better SSO and SEO. It handles the most of requirements for react and additional, easy to use, features such as static generation, self routes, dynamic pages etc.
 
-TYPESCRIPT, is a typed js language. It puts another stage into transpiling/coverting process, also helps avoiding and determining the errors in the very early stages especially for the porjects which have higher states, inputs etc. You can search and check it in the very helpful ts playground. 
+### TYPESCRIPT, 
+is a typed js language. It puts another stage into transpiling/converting process, also helps avoiding and determining the errors in the very early stages, especially for the projects which have higher amounts of data, inputs etc. You can search and check it in the ts playground. 
 
-MUI, "offers a comprehensive suite of UI tools to help you ship new features faster." as mentioned in official website and i couldn't agree more, it's easy to modify it's prebuilded components and evolve them through the needs of the product.
+### MUI,
+"offers a comprehensive suite of UI tools to help you ship new features faster." as mentioned in official website and i couldn't agree more, it is quite easy to modify prebuilt components and evolve them through the needs of the product.
 
-FORMIK, one of the most popular and easy to use form handling open source library. It is used for handling form inputs as a whole and event handling.
+### FORMIK, 
+one of the most popular and easy to use form handling open source library. It is used for handling form inputs as a whole and event handling.
 
-YUP, a very useful validation library and highly compatiple with Formik. It's used for form validation and error handling.
+### YUP,
+a very useful validation library and highly compatiple with Formik. It's used for form validation and error handling.
 
 # Website Content/Pages
 
