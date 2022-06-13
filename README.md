@@ -1,6 +1,6 @@
 # Pilates 
 
-This is one of the website templates, i designed for a pilates studio which has personal training and nutrition services  related with the needs and deseases of their clients. Website is builded in a way that users can straightly reach the relevant information about studio's services.
+This is one of the website templates, i designed for a pilates studio which has personal training and nutrition services  related with the needs and capabilities of their clients. Website is builded in a way that users can straightly reach the relevant information about studio's services.
 
 # Stack 
 
