@@ -1,34 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#Pilates 
 
-## Getting Started
+This is one of the website templates, i designed for a pilates studio which has personal training and nutrition services  related with the needs and deseases of their clients. Website is builded in a way that users can straightly reach the relevant information about studio's services.
 
-First, run the development server:
+#Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+FIGMA, an easy going and full-featured app for designing UI/UX prototypes. It has simply everything for design process including layouts, effects etc. It helps designers to simplify and expedite design process and that's why i mostly prepare my designs with it.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+NEXT.JS,  is a react framework which is developed for better SSO and SEO. It handles the most of requirements for react and additional easy to use features such as static generation, self routes, dynamic pages etc.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+MUI, "offers a comprehensive suite of UI tools to help you ship new features faster." as mentioned in official website and i couldn't agree more, it's easy to modify it's prebuilded components and evolve them through the needs of the product
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+FORMIK, one of the most popular and easy to use form handling open source library. It is used for handling form inputs as a whole and event handling.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+YUP, a very useful validation library and highly compatiple with Formik. It's used for form validation and error handling.
 
-## Learn More
+#Website Content/Pages
 
-To learn more about Next.js, take a look at the following resources:
+1-Home: Brief information and welcome page
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2-Training: Types of trainings given by the studio and related subpages which includes details about the relevant training type.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3- Nutrition: Types of nutrition programs given by the studio and related subpages which includes details about the relevant nutrition type.
 
-## Deploy on Vercel
+4- About: Brief information about the instructor and nutritionist
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+5-Blog: Informative writings from the studio about training, nutrition, human anatomy, health and recipies.
